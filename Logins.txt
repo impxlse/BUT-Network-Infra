@@ -1,0 +1,18 @@
+Comptes Unix :
+	- sae : MDP = sae
+	- root : MDP = root
+
+OpenLDAP :
+	- cn=admin,dc=jaaj,dc=local : MDP = jaaj42
+
+LAM
+	- lam : MDP = jaaj42
+
+Kerberos
+	- kadmin : MDP = jaaj42
+
+Zabbix :
+	- admin : MDP = nerftaliyah
+	
+PSQL-intra :
+	- zabbix : MDP = nerfriven
